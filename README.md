@@ -14,9 +14,9 @@ Currently shipping in public, looking for junior roles.
 
 ### what i'm building
 
-- **[jobBoardMvp](https://github.com/Kise07/jobBoardMvp)** — junior dev job board scraping HN "Who's Hiring?" via Algolia. Node.js · Redis · Express · React
-- **[cv.sebas](https://github.com/Kise07/cv.sebas)** — my CV as a TypeScript app. live at [cv.yean.me](https://cv.yean.me)
-- **[link-in-bio](https://github.com/Kise07/link-in-bio)** — minimal link page. [yean.me](https://yean.me)
+- **[jobBoardMvp](https://github.com/Kise07/jobBoardMvp)** — junior dev job board scraping HN "Who's Hiring?" via Algolia. Node.js · Redis · Express · React. live at [jobboardmvp](https://job-board-mvp-f4n8.vercel.app)
+- **[cv.sebas](https://github.com/Kise07/cv.sebas)** — my CV as a TypeScript app. live at [cv-sebas](https://cv-sebas-nine.vercel.app)
+- **[link-in-bio](https://github.com/Kise07/link-in-bio)** — minimal link page. [link-in-bio](https://link-in-bio-one-peach.vercel.app)
 
 ---
 
